@@ -1,0 +1,30 @@
+﻿Idea title:
+Command-Line Application
+
+Team members:
+1- Member 1:
+Name: ياسر حافظ فتحي
+, Yaser Hafiz Fathy
+ID: 20170754
+
+2- Member 2:
+Name: يوسف عصام احمد محمد, Yussuf Essam Ahmed Mohammed
+ID: 20180712
+
+3- Member 3:
+Name: محمد خالد حسن عبدالحليم, Mohamed Khaled Hassan
+ID: 20180487
+
+4- Member 4:
+Name: عبدالرحمن اسامه شوقي علي, Abdelrahman Osama Shawky Ali
+ID: 20170280
+
+5- Member 5:
+Name: ابانوب ابراهيم سعد, Abanoub Ibrahim saad
+
+ID: 20170001
+
+
+6- Member 6:
+Name: امير سلامه محروس ابوالعلا, Amir Salama Mahros
+ID: 20180134
